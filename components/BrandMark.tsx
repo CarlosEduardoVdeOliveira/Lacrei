@@ -1,0 +1,27 @@
+export function BrandMark() {
+  return (
+    <svg
+      width="42"
+      height="42"
+      viewBox="0 0 42 42"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-hidden="true"
+    >
+      <circle
+        cx="21"
+        cy="21"
+        r="20"
+        stroke="currentColor"
+        strokeWidth="2"
+      />
+
+      <path
+        d="M21 11V31M11 21H31"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}

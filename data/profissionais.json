@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dra. Ana Martins",
+    "specialty": "Psicologia",
+    "city": "São Paulo",
+    "state": "SP",
+    "description": "Atendimento acolhedor, com foco em saúde mental e escuta qualificada.",
+    "accessible": true
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rafael Souza",
+    "specialty": "Clínica Geral",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "description": "Cuidado integral e atendimento centrado nas necessidades de cada pessoa.",
+    "accessible": true
+  },
+  {
+    "id": 3,
+    "name": "Dra. Marina Oliveira",
+    "specialty": "Endocrinologia",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "description": "Acompanhamento clínico individualizado e comunicação respeitosa.",
+    "accessible": false
+  },
+  {
+    "id": 4,
+    "name": "Dr. Lucas Ferreira",
+    "specialty": "Psiquiatria",
+    "city": "Curitiba",
+    "state": "PR",
+    "description": "Atendimento em saúde mental com abordagem humanizada.",
+    "accessible": true
+  }
+]
